@@ -31,6 +31,14 @@ console.log(validurl(urls[1])) // returns false
 <script src="https://valid-url.dinoscapedinosc.repl.co"></script>
 ```
 
+### Example
+```html
+<script>
+  alert($("github.com"))
+  alert($("This is not a URL"))
+</script>
+```
+
 ## Note
 This package may take some time to load because it uses the JavaScript __new URL()__ component. Sorry, but we now this problem.
 
