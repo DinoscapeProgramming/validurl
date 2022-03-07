@@ -1,5 +1,8 @@
 # Valid URL
 
+## Get started
+Just copy the __validurl.js__ file. And then you're ready to use this friendly package.
+
 ## Documentation
 ### Require the package
 ```js
