@@ -27,3 +27,6 @@ console.log(validurl(urls[1])) // returns false
 
 ## Note
 This package may take some time to load because it uses the JavaScript __new URL()__ component. Sorry, but we now this problem.
+
+## Developer
+Add __Dinoscape#4056__ on Discord to get in contact with me.
