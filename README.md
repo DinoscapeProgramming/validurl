@@ -18,6 +18,6 @@ const urls = {
   "https://github.com",
   "This is not a URL"
 }
-console.log(validurl(urls[0]))
-console.log(validurl(urls[1]))
+console.log(validurl(urls[0])) // returns true
+console.log(validurl(urls[1])) // returns false
 ```
