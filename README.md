@@ -21,3 +21,6 @@ const urls = {
 console.log(validurl(urls[0])) // returns true
 console.log(validurl(urls[1])) // returns false
 ```
+
+## Note
+This package may take some time to load because it uses the JavaScript __new URL()__ component. Sorry, but we now this problem.
